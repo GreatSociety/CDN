@@ -1386,7 +1386,7 @@
       "sizeBytes": 620130,
       "closeOnBuy": true,
       "stayOpenAfterEnd": true,
-      "skipDelaySeconds": 1,
+      "skipDelaySeconds": 0.25,
       "fillScreen": false
     },
     "test_2": {
@@ -1394,7 +1394,7 @@
       "sizeBytes": 620130,
       "closeOnBuy": true,
       "stayOpenAfterEnd": true,
-      "skipDelaySeconds": 1,
+      "skipDelaySeconds": 0.25,
       "fillScreen": false
     }
   }

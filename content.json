@@ -1393,7 +1393,7 @@
       "hash": "test_2-v2",
       "sizeBytes": 1048576,
       "closeOnBuy": true,
-      "stayOpenAfterEnd": false,
+      "stayOpenAfterEnd": true,
       "skipDelaySeconds": 10,
       "fillScreen": false
     }

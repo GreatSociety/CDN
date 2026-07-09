@@ -1382,19 +1382,19 @@
   ],
   "media": {
     "test": {
-      "hash": "test-v2",
-      "sizeBytes": 620130,
-      "closeOnBuy": true,
-      "stayOpenAfterEnd": true,
+      "hash": "test-v3",
+      "sizeBytes": 1048576,
+      "closeOnBuy": false,
+      "stayOpenAfterEnd": false,
       "skipDelaySeconds": 0.25,
       "fillScreen": false
     },
     "test_2": {
-      "hash": "test_2-v1",
-      "sizeBytes": 620130,
+      "hash": "test_2-v2",
+      "sizeBytes": 1048576,
       "closeOnBuy": true,
-      "stayOpenAfterEnd": true,
-      "skipDelaySeconds": 0.25,
+      "stayOpenAfterEnd": false,
+      "skipDelaySeconds": 10,
       "fillScreen": false
     }
   }
